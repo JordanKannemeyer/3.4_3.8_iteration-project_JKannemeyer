@@ -1,0 +1,46 @@
+/****************** NAVIGATION SYSTEM FOR ADMIN USER*********************/
+.nav {
+	background-color: #000;
+	border: 1px solid #fff;
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+.nav ul{
+	list-style: none;
+	margin-top: 10px;
+	font-family: Calibri;
+	font-size: 1.1em;
+	font-weight: 666;
+	float: center;
+}
+
+.nav ul li {
+	display: inline-block;
+	width: 5.5em;
+	margin: 0px 5px 0px 5px;
+	border-top: 1px solid #ccc;
+	border-right: 3px solid #999;
+	border-bottom: 3px solid #999;
+	border-left: 1px solid #ccc;
+	border-radius: 10px;
+	background-color: #444;
+}
+
+.nav ul li a {
+	color:#f6b619;
+	text-decoration: none;
+}
+
+.nav ul li a:active{
+	color:#f6b619;
+}
+
+.nav ul li a:hover{
+	color:#fce;
+}
+
+.nav ul li a:visited{
+	color:#f6b619;
+} 
